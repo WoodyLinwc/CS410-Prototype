@@ -2,8 +2,8 @@
 title: LE-V-EL
 email: your-email@domain.com
 description: >
-  Goal of this project is a platform that allows researchers to test their
-machine graphical perception algorithms on benchmark datasets.
+  Provide standardized visualization benchmark datasets
+  Rankings of computational methods for visualization understanding.
 lang: en-US
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
