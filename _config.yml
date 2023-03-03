@@ -8,7 +8,7 @@ lang: en-US
 
 baseurl: "/CS410-Prototype" # the subpath of your site, e.g. /blog/
 url: https://woodylinwc.github.io/CS410-Prototype/ # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
+git_address: https://github.com/citystoriesucla/citystories-LA-docs
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
