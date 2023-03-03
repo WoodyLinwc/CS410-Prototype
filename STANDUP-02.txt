@@ -1,0 +1,12 @@
+Requirements
+   
+   1) User Interface - Show the information of the training model. The platform should have a user-friendly interface that is easy to navigate and understand for researchers and users with different technical backgrounds.
+
+   2) Dashboard - Use a color system on the dashboard to clearly distinguish and categorize different data points, with green representing the best results and white indicating the worst performance.
+
+   3) Leaderboard Comparison: The platform's leaderboard feature will enable users to compare their algorithms with those of other users and evaluate their relative performance, providing valuable insights and a competitive edge.
+
+   4) Data import options: The website will support multiple data import options, such as CSV, Excel, and API, to allow users to easily upload and work with their own data sets.
+
+   5) Interactive visualizations: Visualizations should be interactive and allow users to explore data by zooming, panning, and hovering over data points to view additional information.
+
