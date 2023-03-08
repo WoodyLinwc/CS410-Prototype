@@ -1,11 +1,6 @@
-- title: Getting Started
+- title: Website Features
   docs:
-  - home
-  - themes
-  - customization
+  - dataset
+  - submit
+  - links
 
-- title: Examples
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
