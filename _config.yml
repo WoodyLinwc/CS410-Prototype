@@ -43,18 +43,18 @@ defaults:
 
 - scope:
     path: _docs
-    type: docs
+    type: submit
   values:
-    layout: docs
+    layout: submit
     sectionid: submit
     seo:
       type: "WebPage"
 
 - scope:
     path: _docs
-    type: docs
+    type: links
   values:
-    layout: docs
+    layout: links
     sectionid: links
     seo:
       type: "WebPage"
@@ -70,6 +70,12 @@ defaults:
 
 collections:
   docs:
+    permalink: /:collection/:path/
+    output: true
+  submit:
+    permalink: /:collection/:path/
+    output: true
+  links:
     permalink: /:collection/:path/
     output: true
   posts:
