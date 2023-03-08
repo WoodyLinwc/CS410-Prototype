@@ -46,6 +46,24 @@ defaults:
     type: docs
   values:
     layout: docs
+    sectionid: submit
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: links
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
     sectionid: docs
     seo:
       type: "WebPage"
